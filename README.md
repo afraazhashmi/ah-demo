@@ -1,2 +1,3 @@
 # ah-demo
-this is my first github repo
+This is my first GitHub repo
+Author-Afraaz Hashmi
